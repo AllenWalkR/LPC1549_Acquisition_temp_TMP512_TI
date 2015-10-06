@@ -3,5 +3,7 @@
 GROUPE 7 : GUERRIER/COCHET
 
 OUT : BUZZER
+
 IN : TMP512 TI
+
 COM : I2C Esclave avec Arduino maître
