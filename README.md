@@ -4,6 +4,6 @@ GROUPE 7 : GUERRIER/COCHET
 
 OUT : BUZZER
 
-IN : TMP512 TI
+IN : Simulateur LM70 sur Arduino liaison SPI
 
 COM : I2C Esclave avec Arduino maître
